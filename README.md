@@ -17,7 +17,9 @@ A fantasy-themed Blender environment featuring a glowing sword embedded in stone
 
 ## Render
 
-(renders/Sword In The Stone.png)
+<p align="center">
+  <img src="renders/Sword In The Stone.png" width="800">
+</p>
 
 ## Video
 
